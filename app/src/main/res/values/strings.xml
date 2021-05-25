@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Demo Fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fragment1_text">A line of Text</string>
+    <string name="fragment1_button">Add Text</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fragment2_text">A line of text</string>
+    <string name="fragment2_button">Add Text</string>
+</resources>
